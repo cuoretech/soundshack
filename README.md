@@ -46,5 +46,5 @@ SoundShack is a Qt application which will run on Mac, PC and Linux desktop envir
 ![alt text](http://design.ubuntu.com/wp-content/uploads/logo-ubuntu_st_no%C2%AE-black-hex.png "Ubuntu Logo")
 ![alt text](http://cdn2.hubspot.net/hub/245892/file-360088931-png/Icons/android-logo-black.png "Android Logo")
 ![alt text](http://www.radiodardania.com/v2/images/ios-transparent.png "iOS Logo")
-
-
+![alt text](http://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Osx-mavericks-logo.png/600px-Osx-mavericks-logo.png "OS X Logo")
+![alt text](http://icons.iconarchive.com/icons/visualpharm/icons8-metro-style/512/Operating-Sysytems-Windows-icon.png "Windows Logo")
