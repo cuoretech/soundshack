@@ -1,6 +1,8 @@
 Cuore SoundShack
 ==========
 
+##The New Way to Listen to Music
+
 SoundShack Leverages the Power of Broadcom's Latest Wicced chip to Stream HD Audio to Wifi enabled devices. The cross-platform application allows users to synchronously stream music with no lag. User can also asynchronously managing speaker groupings. Giving users the power to listen to the football game on their living room speakers and rock out to their patio speakers at the sametime.
 
 License
@@ -31,11 +33,11 @@ Cuore SoundShack is made available by [Cuore Technology](http://cuore.io) and a 
 Architecture
 ===========
 
-##Application Framework: Qt Project Framework
-##Main Languages: Python, C++ and JavaScript
-##UI Framework: JQuery Mobile
-##Database: Neo4j
-##Templating Engine: QML
+####Application Framework: Qt Project Framework
+####Main Languages: Python, C++ and JavaScript
+####UI Framework: JQuery Mobile
+####Database: Neo4j
+####Templating Engine: QML
 
 Platform Compatiblity
 ===========
