@@ -3,7 +3,7 @@ Cuore SoundShack
 
 ###The New Way to Listen to Music
 
-SoundShack Leverages the Power of Broadcom's Latest Wicced chip to Stream HD Audio to Wifi enabled devices. The cross-platform application allows users to synchronously stream music with no lag. User can also asynchronously managing speaker groupings. Giving users the power to listen to the football game on their living room speakers and rock out to their patio speakers at the sametime.
+SoundShack Leverages the Power of Broadcom's Latest Wiced chip to Stream HD Audio to Wifi enabled devices. The cross-platform application allows users to synchronously stream music with no lag. Users can also asynchronously manage speaker groupings, giving users the power to listen to the football game on their living room speakers and rock out to their patio speakers at the sametime.
 
 License
 ===========
@@ -46,7 +46,6 @@ SoundShack is a Qt application which will run on Mac, PC and Linux desktop envir
 
 
 ![alt text](http://design.ubuntu.com/wp-content/uploads/logo-ubuntu_st_no%C2%AE-black-hex.png "Ubuntu Logo")
-![alt text](http://cdn2.hubspot.net/hub/245892/file-360088931-png/Icons/android-logo-black.png "Android Logo")
 ![alt text](http://www.radiodardania.com/v2/images/ios-transparent.png "iOS Logo")
 ![alt text](http://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Osx-mavericks-logo.png/600px-Osx-mavericks-logo.png "OS X Logo")
 ![alt text](http://icons.iconarchive.com/icons/visualpharm/icons8-metro-style/512/Operating-Sysytems-Windows-icon.png "Windows Logo")
